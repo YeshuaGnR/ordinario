@@ -9,7 +9,7 @@
 				echo sanitize_output($nombre); ?>" autofocus/></p>
 
 		<p>
-			<label for="nombre">Dirección</label><br />
+			<label for="nombre">Direcci&oacuten</label><br />
 			<textarea id="direccion" name="direccion"><?php 
 				echo sanitize_output($direccion);?></textarea></p>
 		
